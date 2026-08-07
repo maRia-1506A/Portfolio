@@ -16,16 +16,16 @@ import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 
 import diu from "./diu.png";
+import maria from "./maria.jpg";
 
-import libraryManagement from "./library_management.png";
 import studentGrades from "./student_grades.png";
 import safesignal from "./safesignal.png";
 import diceGame from "./dice_game.png";
-import rockPaperScissors from "./rock_paper_scissors.png";
 import campusLostFound from "./campus_lost_found.png";
 
 export {
   logo,
+  maria,
   backend,
   creator,
   mobile,
@@ -41,10 +41,8 @@ export {
   reactjs,
   tailwind,
   diu,
-  libraryManagement,
   studentGrades,
   safesignal,
   diceGame,
-  rockPaperScissors,
   campusLostFound,
 };
